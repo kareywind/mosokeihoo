@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://checeedies.reisinger.co.uk/sitemap.xml
